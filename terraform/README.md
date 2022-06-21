@@ -13,9 +13,9 @@ Este directorio incluye ejemplo básicos de despliegue de infraestructura como c
 
 ## Casos de uso de Terraform en Azure
 
-* [Crear una máquina virtual con sistema operativo Ubuntu](ejemplos/azurerm/single_vm_ubuntu)
-* [Crear una máquina virtual basada en CentOS Stream desde el marketplace de Azure](ejemplos/azurerm/single_vm_centos_stream)
-* [Crear una máquina virtual con dos discos: arranque + datos](ejemplos/azurerm/multiple_disks)
+* [Crear una máquina virtual con sistema operativo Ubuntu](https://github.com/NosSLV/devops/tree/main/terraform/ejemplos/azurerm/vm_ubuntu)
+* [Crear una máquina virtual basada en CentOS Stream desde el marketplace de Azure](https://github.com/NosSLV/devops/tree/main/terraform/ejemplos/azurerm/vm_centos_stream)
+* [Crear una máquina virtual con dos discos: arranque + datos](https://github.com/NosSLV/devops/tree/main/terraform/ejemplos/azurerm/multiples_discos)
 
 
 El siguiente [enlace](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/linux_virtual_machine) proporciona mayor información sobre estos y otros casos de uso de Terraform en Azure.
